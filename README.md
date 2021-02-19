@@ -15,4 +15,4 @@
 <br><br>
 <img src="images/slide1 (2).png">
 <br><br>
-<P><i></i></p>
+<P><i>Developed by: engineer Javier Velasquez. (2021)</i></p>
